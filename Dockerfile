@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM golang
 MAINTAINER ram <ram.praximo@gmail.com>
 
 ENV MYSQL_MAJOR 5.7
